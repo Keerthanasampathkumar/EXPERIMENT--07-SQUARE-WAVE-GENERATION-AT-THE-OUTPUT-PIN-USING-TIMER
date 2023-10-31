@@ -71,7 +71,7 @@ In normal settings, assuming you’re using the timer module in PWM mode and gen
   
 
 ## STM 32 CUBE PROGRAM :
-```
+```c
 #include "main.h"
 
 TIM_HandleTypeDef htim2;
